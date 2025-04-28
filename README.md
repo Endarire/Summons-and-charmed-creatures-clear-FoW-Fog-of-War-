@@ -1,5 +1,5 @@
 # Summons and charmed creatures clear FoW Fog of War 
-Allbrother's mod preserved on GitHub for posterity.
+Allbrother's mod preserved on GitHub for posterity with permission from the author.
 
 Download & Forum: https://forums.beamdog.com/discussion/82634/summons-and-charmed-creatures-clear-fow
 
